@@ -17,9 +17,8 @@ dichiarazione scritta dell'acquirente che indica cosa ha ricevuto, con quale fat
 
 Compilare a mano una dichiarazione per ogni fattura (nome cliente, indirizzo, elenco prodotti, numero e
 data fattura, date di ricevimento e firma) è lento e soggetto a errori di copiatura. Questo programma
-nasce per automatizzare il lavoro in un'azienda reale (tipografia / stampa / ricamo con clienti in altri
-Paesi UE): si caricano le fatture, si controllano i dati letti e con un clic si ottengono
-tutti i PDF.
+nasce per automatizzare il lavoro in un'azienda reale con clienti in altri Paesi UE: 
+si caricano le fatture, si controllano i dati letti e con un clic si ottengono tutti i PDF.
 
 ## Funzionalità
 
