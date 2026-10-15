@@ -88,7 +88,7 @@ Il programma cerca LibreOffice nei percorsi standard di Windows e macOS e nel `P
 
 ```bash
 git clone https://github.com/S6520241/generatore-autocertificazioni.git
-cd <nome-repository>
+cd generatore-autocertificazioni
 
 python -m venv .venv
 # Windows
@@ -234,4 +234,4 @@ inventati.
 
 ---
 
-*Progetto realizzato da Francesco Giuseppino per automatizzare un'attività amministrativa di un azienda*
+*Progetto realizzato da Francesco Giuseppino per automatizzare un'attività amministrativa di un'azienda*
