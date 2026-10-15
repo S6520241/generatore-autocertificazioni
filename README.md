@@ -230,10 +230,9 @@ contengano i segnaposto tra doppie graffe.
 
 ## Privacy
 
-Il repository non contiene dati reali: fatture, dichiarazioni generate e fogli Excel dei clienti sono
-esclusi tramite `.gitignore`. Tutti i nomi, gli indirizzi e le partite IVA presenti negli esempi sono
+Il repository non contiene dati reali. Tutti i nomi, gli indirizzi e le partite IVA presenti negli esempi sono
 inventati.
 
 ---
 
-*Progetto realizzato da Francesco per automatizzare un'attività amministrativa dell'azienda di famiglia.*
+*Progetto realizzato da Francesco Giuseppino per automatizzare un'attività amministrativa di un azienda*
