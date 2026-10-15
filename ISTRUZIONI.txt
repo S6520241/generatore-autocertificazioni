@@ -1,0 +1,38 @@
+AUTOCERTIFICAZIONI - ISTRUZIONI
+================================
+
+PRIMA VOLTA (da fare una sola volta)
+------------------------------------
+1. Installa LibreOffice (gratuito): https://www.libreoffice.org/download
+   Scarica la versione per Windows e installala lasciando tutte le opzioni
+   come sono (Avanti, Avanti, Installa).
+
+2. Copia la cartella "Autocertificazioni" sul Desktop (o in Documenti).
+
+3. Apri la cartella, clic col tasto DESTRO su "Autocertificazioni.exe"
+   -> "Mostra altre opzioni" -> "Invia a" -> "Desktop (crea collegamento)".
+   Ora sul Desktop c'e' l'icona per avviare il programma.
+
+4. La prima volta Windows potrebbe mostrare "Windows ha protetto il PC":
+   clicca "Ulteriori informazioni" e poi "Esegui comunque".
+
+
+USO DI TUTTI I GIORNI
+---------------------
+1. Doppio clic sull'icona "Autocertificazioni" (attendi qualche secondo).
+2. Scegli la lingua: Italiano o Inglese.
+3. Clicca "Carica fatture PDF..." e seleziona una o piu' fatture.
+4. Controlla i dati nel riquadro in basso. Se qualcosa e' sbagliato,
+   doppio clic sulla fattura per correggerlo.
+5. Clicca "Genera autocertificazioni".
+6. Alla fine rispondi "Si" per aprire la cartella con i PDF creati.
+
+I PDF vengono salvati nella cartella "DocumentiOutput", dentro la cartella
+del programma, divisi per cliente.
+
+
+SE QUALCOSA NON VA
+------------------
+- "LibreOffice non trovato": installa LibreOffice (punto 1).
+- Una fattura appare in rosso: doppio clic sulla riga e inserisci i dati a mano.
+- "il file e' aperto in un altro programma": chiudi il PDF e riprova.
