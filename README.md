@@ -88,7 +88,7 @@ Il programma cerca LibreOffice nei percorsi standard di Windows e macOS e nel `P
 ## Installazione
 
 ```bash
-git clone https://github.com/S6520241/<generatore-autocertificazioni>.git
+git clone https://github.com/S6520241/generatore-autocertificazioni.git
 cd <nome-repository>
 
 python -m venv .venv
